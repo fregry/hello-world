@@ -1,0 +1,5 @@
+qt5.11+vs2017
+测试机150
+CTP 恒生
+C:\Qt\Qt5.9.1\5.9.1\msvc2015_64\include\QWT
+
